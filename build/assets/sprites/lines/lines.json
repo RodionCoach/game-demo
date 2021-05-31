@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "lines.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 613,
+				"h": 11
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "line_blue_tube.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 9
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 127,
+						"h": 9
+					}
+				},
+				{
+					"filename": "line_green_tube.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 9
+					},
+					"frame": {
+						"x": 130,
+						"y": 1,
+						"w": 179,
+						"h": 9
+					}
+				},
+				{
+					"filename": "line_orange_tube.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 9
+					},
+					"frame": {
+						"x": 311,
+						"y": 1,
+						"w": 75,
+						"h": 9
+					}
+				},
+				{
+					"filename": "line_red_tube.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 173,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 173,
+						"h": 9
+					},
+					"frame": {
+						"x": 388,
+						"y": 1,
+						"w": 173,
+						"h": 9
+					}
+				},
+				{
+					"filename": "line_violet_tube.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 9
+					},
+					"frame": {
+						"x": 563,
+						"y": 1,
+						"w": 49,
+						"h": 9
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ce687dd5cd41e2facc95b42baef6980a:87140d1119d0817daec397038b704b18:ff60e7ce346ceaf85880a4da344e8e2d$"
+	}
+}

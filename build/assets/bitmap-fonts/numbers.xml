@@ -1,0 +1,30 @@
+<font>
+	<info face="E:\Projects\TEMP\fractions\sheets
+umbers_tmp-export" size="80" />
+	<common lineHeight="80" scaleW="159" scaleH="155" pages="1" />
+	<pages>
+		<page id="0" file="E:\Projects\TEMP\fractions\sheets
+umbers_tmp-export.png" />
+	</pages>
+	<chars count="17">
+		<char id="48" x="0" y="11" width="37" height="50" xoffset="0" yoffset="30" xadvance="45" /><!-- 0 -->
+		<char id="49" x="130" y="102" width="22" height="52" xoffset="0" yoffset="29" xadvance="30" /><!-- 1 -->
+		<char id="50" x="35" y="62" width="34" height="50" xoffset="0" yoffset="31" xadvance="42" /><!-- 2 -->
+		<char id="51" x="0" y="62" width="34" height="48" xoffset="0" yoffset="31" xadvance="42" /><!-- 3 -->
+		<char id="52" x="101" y="51" width="29" height="50" xoffset="0" yoffset="30" xadvance="37" /><!-- 4 -->
+		<char id="53" x="101" y="102" width="28" height="50" xoffset="0" yoffset="30" xadvance="36" /><!-- 5 -->
+		<char id="54" x="70" y="62" width="30" height="50" xoffset="0" yoffset="30" xadvance="38" /><!-- 6 -->
+		<char id="55" x="100" y="0" width="29" height="50" xoffset="0" yoffset="30" xadvance="37" /><!-- 7 -->
+		<char id="56" x="130" y="0" width="28" height="48" xoffset="0" yoffset="31" xadvance="36" /><!-- 8 -->
+		<char id="57" x="69" y="11" width="30" height="50" xoffset="0" yoffset="31" xadvance="38" /><!-- 9 -->
+		<char id="61" x="29" y="113" width="27" height="17" xoffset="0" yoffset="46" xadvance="35" /><!-- = -->
+		<char id="47" x="0" y="0" width="88" height="10" xoffset="0" yoffset="46" xadvance="96" /><!-- / -->
+		<char id="45" x="0" y="113" width="28" height="9" xoffset="0" yoffset="50" xadvance="36" /><!-- - -->
+		<char id="43" x="0" y="123" width="28" height="29" xoffset="0" yoffset="41" xadvance="36" /><!-- + -->
+		<char id="63" x="38" y="11" width="30" height="50" xoffset="0" yoffset="31" xadvance="38" /><!-- ? -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="200" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>
