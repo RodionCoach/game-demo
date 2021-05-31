@@ -1,0 +1,11 @@
+{
+  "name": "math",
+  "version": "0.1.0",
+  "description": "Aristek game",
+  "main": "build/index.js",
+  "author": "ARISTEK",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
